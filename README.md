@@ -36,6 +36,10 @@ Response:
   "numbers": [new numbers received],
   "avg": average_of_current_window
 }
+(Refer to Screenshots)
+
+
+
 Setup
 Prerequisites
 Node.js (v14 or later)
